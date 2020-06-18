@@ -1,5 +1,9 @@
 # react-and-apis-in-a-nutshell
 
+## Frontend link on master branch: https://github.com/knmarvel/react-and-apis-in-a-nutshell
+
+## Backend link on main branch: https://github.com/knmarvel/django-rest-framework
+
 React + APIs in a Nutshell
 
     Due Thursday by 11:59pm Points 15 Submitting a website url Available Jun 18 at 12am - Jun 21 at 11:59pm 4 days
